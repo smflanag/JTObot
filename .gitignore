@@ -1,0 +1,8 @@
+*.py
+!barbot.py
+
+*.h
+*.bat
+*.exe
+*.dll
+*.json
